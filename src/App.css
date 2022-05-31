@@ -1,0 +1,7 @@
+.cards{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    background-color: #2196F3;
+    color: white;
+    
+}
